@@ -28,7 +28,7 @@ A recommendation system that uses both traditional collaborative filtering (SVD)
 - Automatic sampling for better performance with large datasets
 
 ## Try it at : https://movierecommendationsystem-dzcqcbrevmqrq8ykndpwgr.streamlit.app/
-
+(only 100k Dataset available for memory constraints)
 
 ## Installation
 
