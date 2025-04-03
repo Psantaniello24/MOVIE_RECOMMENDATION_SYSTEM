@@ -16,4 +16,7 @@ maxMessageSize = 200
 fastReruns = true
 
 [browser]
-gatherUsageStats = false 
+gatherUsageStats = false
+
+[global]
+developmentMode = false 
