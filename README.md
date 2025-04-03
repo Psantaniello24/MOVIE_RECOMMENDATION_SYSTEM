@@ -21,6 +21,10 @@ A recommendation system that uses both traditional collaborative filtering (SVD)
 - Progress indicators and status messages during model training
 - Automatic sampling for better performance with large datasets
 
+- ## Video example
+
+![Demo GIF](./demo_recommendation_system.gif)
+
 ## Installation
 
 1. Clone this repository
