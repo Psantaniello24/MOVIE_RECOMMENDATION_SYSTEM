@@ -2,6 +2,12 @@
 
 A recommendation system that uses both traditional collaborative filtering (SVD) and Neural Collaborative Filtering approaches on the MovieLens dataset. The system includes a Streamlit web interface for user interaction.
 
+
+- ## Video example
+
+![Demo GIF](./demo_recommendation_system.gif)
+
+
 ## Features
 
 - Loads and processes MovieLens datasets with multiple size options:
@@ -21,9 +27,6 @@ A recommendation system that uses both traditional collaborative filtering (SVD)
 - Progress indicators and status messages during model training
 - Automatic sampling for better performance with large datasets
 
-- ## Video example
-
-![Demo GIF](./demo_recommendation_system.gif)
 
 ## Installation
 
